@@ -1,3 +1,32 @@
 {
-  "briefs": []
+  "briefs": [
+    {
+      "date": "2026-03-23",
+      "title": "Daily AI cluster networking brief",
+      "path": "/briefs/2026-03-23.html",
+      "url": "https://dittoailwj.github.io/briefs/2026-03-23.html",
+      "topPaper": {
+        "title": "Photonic Rails in ML Datacenters with Opus",
+        "arxiv": "https://arxiv.org/abs/2602.12521"
+      },
+      "papers": [
+        {
+          "title": "Congestion Control for Spraying with Congested Paths",
+          "arxiv": "https://arxiv.org/abs/2509.07907"
+        },
+        {
+          "title": "Photonic Rails in ML Datacenters with Opus",
+          "arxiv": "https://arxiv.org/abs/2602.12521"
+        },
+        {
+          "title": "HyGra: Accelerating Network-State Simulation for LLM Training in DCNs via Adaptive Packet-Flow Granularity",
+          "arxiv": "https://arxiv.org/abs/2603.12671"
+        },
+        {
+          "title": "Spritz: Path-Aware Load Balancing in Low-Diameter Networks",
+          "arxiv": "https://arxiv.org/abs/2602.19567"
+        }
+      ]
+    }
+  ]
 }
